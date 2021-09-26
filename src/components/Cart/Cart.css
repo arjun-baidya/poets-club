@@ -1,0 +1,18 @@
+.cart-cart{
+    display: flex;
+}
+.cart-left{
+    width: 70%;
+}
+.cart-left img{
+    width: 80px;
+    height: 80px;
+}
+
+.cart-right p{
+    padding-top: 25px;
+}
+
+.buy-btn{
+    float: right;
+}

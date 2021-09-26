@@ -1,0 +1,52 @@
+.poet {
+    justify-content: center;
+    margin-right: 5px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 90%;
+    }
+    .poet:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+    img {
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    }
+    .poet-name {
+    color: blue;
+    font-weight: 400;
+    }
+    .btn-regular {
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    .icon-color {
+    color: gold;
+    }
+
+    .social-icon{
+        display: flex;
+        gap: 50px;
+        text-align: center;
+        padding-top: 20px;
+        
+    }
+    .fb{
+        padding-left: 70px;
+    }
+.fb i{
+    font-size: 22px;
+}
+
+.twitter i{
+    font-size: 22px;
+}

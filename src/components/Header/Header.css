@@ -1,0 +1,11 @@
+
+.header-container{
+    background-color:whitesmoke;
+    width: 75%;
+    margin: auto;
+    padding: 20px 20px;
+    margin-bottom: 5px;
+}
+.container, h2{
+    color: green;
+}
